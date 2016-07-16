@@ -1,4 +1,4 @@
-## Weekly vitamins for COMS2001 ##
+# Weekly vitamins for COMS2001 #
 
 ## This are the questions for your to consider every week as you go
    through the course.  They are meant to check your understanding of
